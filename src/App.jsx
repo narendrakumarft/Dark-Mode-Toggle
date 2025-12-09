@@ -1,5 +1,6 @@
 import { Moon, Sun } from "lucide-react";
 import { useState, useEffect } from "react";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 // Main App component that manages the dark/light theme state
 function App() {
